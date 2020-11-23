@@ -4,6 +4,11 @@
 ### My Edit
 Can be deployed to heroku 
 
+### [?] How to use this script on heroku
+1. Easiest way is to fork and deploy it to heroku 
+2. After forking open wp-plus.py
+3. Enter your id in front of referrer and save it
+4. Open heroku -> create application -> go to deploy and connect to your github account and deploy it.
 
 ### [!] About warp+
 WARP+ uses Cloudflare’s virtual private backbone, known as Argo, to achieve higher speeds and ensure your connection is encrypted across the long haul of the Internet. [Read more](https://blog.cloudflare.com/announcing-warp-plus/)
